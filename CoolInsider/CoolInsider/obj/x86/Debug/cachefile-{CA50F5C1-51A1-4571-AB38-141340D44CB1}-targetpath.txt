@@ -1,0 +1,28 @@
+Content\Soundtrack\Xero_Chi.xnb
+Content\Soundtrack\Xero_Chi.wma
+Content\Soundtrack\smwfull.xnb
+Content\Soundtrack\smwfull.wma
+Content\PlanetCute\BrownBlock.xnb
+Content\PlanetCute\Character Horn Girl.xnb
+Content\PlanetCute\Water Block.xnb
+Content\pixel.xnb
+Content\PlanetCute\Enemy Bug.xnb
+Content\PlanetCute\Gem Blue.xnb
+Content\PlanetCute\Gem Green.xnb
+Content\PlanetCute\Gem Orange.xnb
+Content\PlanetCute\Enemy Bug Small.xnb
+Content\ScreenShots\ScreenShot.xnb
+Content\ScreenShots\TitleScreen.xnb
+Content\ScreenShots\Game Over Screen.xnb
+Content\Fonts\Default.xnb
+Content\Radar.xnb
+Content\LightSource.xnb
+Content\AdditiveBlend.xnb
+Content\SoundEffects\ButtonClick.xnb
+Content\SoundEffects\Applause.xnb
+Content\SoundEffects\ichrmova.xnb
+Content\SoundEffects\Already There.xnb
+Content\SoundEffects\Deconstructing.xnb
+Content\SoundEffects\I'm Gone.xnb
+Content\SoundEffects\Never Existed.xnb
+Content\SoundEffects\Without a Trace.xnb

@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Soundtrack\Xero_Chi.mp3</Source>
+      <Name>Soundtrack\Xero_Chi</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\Xero_Chi.xnb</Output>
+      <Extra>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\Xero_Chi.wma</Extra>
+      <Time>2012-11-09T00:52:09.0910725-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Soundtrack\smwfull.mp3</Source>
+      <Name>Soundtrack\smwfull</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\smwfull.xnb</Output>
+      <Extra>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\smwfull.wma</Extra>
+      <Time>2012-11-11T20:52:40.8842731-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\BrownBlock.png</Source>
+      <Name>PlanetCute\BrownBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\BrownBlock.xnb</Output>
+      <Time>2012-11-09T21:42:50.7023791-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\Character Horn Girl.png</Source>
+      <Name>PlanetCute\Character Horn Girl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Character Horn Girl.xnb</Output>
+      <Time>2012-11-09T15:43:50.6695776-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\Water Block.png</Source>
+      <Name>PlanetCute\Water Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Water Block.xnb</Output>
+      <Time>2012-11-11T14:40:04.2981401-08:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2012-11-09T13:04:17.9745457-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\Enemy Bug.png</Source>
+      <Name>PlanetCute\Enemy Bug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Enemy Bug.xnb</Output>
+      <Time>2012-11-10T01:25:30.7738869-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\Gem Blue.png</Source>
+      <Name>PlanetCute\Gem Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Gem Blue.xnb</Output>
+      <Time>2012-11-11T03:28:09.1048632-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\Gem Green.png</Source>
+      <Name>PlanetCute\Gem Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Gem Green.xnb</Output>
+      <Time>2012-11-11T03:27:00.2609255-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\Gem Orange.png</Source>
+      <Name>PlanetCute\Gem Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Gem Orange.xnb</Output>
+      <Time>2012-11-11T03:27:48.7787006-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetCute\Enemy Bug Small.png</Source>
+      <Name>PlanetCute\Enemy Bug Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Enemy Bug Small.xnb</Output>
+      <Time>2012-11-10T18:02:38.0191161-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenShots\ScreenShot.png</Source>
+      <Name>ScreenShots\ScreenShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\ScreenShots\ScreenShot.xnb</Output>
+      <Time>2012-11-11T04:11:52.3659051-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenShots\TitleScreen.png</Source>
+      <Name>ScreenShots\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\ScreenShots\TitleScreen.xnb</Output>
+      <Time>2012-11-11T04:11:52.3679052-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenShots\Game Over Screen.png</Source>
+      <Name>ScreenShots\Game Over Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\ScreenShots\Game Over Screen.xnb</Output>
+      <Time>2012-11-11T18:30:50.3842279-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Default.spritefont</Source>
+      <Name>Fonts\Default</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Fonts\Default.xnb</Output>
+      <Time>2012-11-19T16:29:16.0548871-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Radar.fx</Source>
+      <Name>Radar</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Radar.xnb</Output>
+      <Time>2012-11-15T00:59:24.0142788-08:00</Time>
+    </Item>
+    <Item>
+      <Source>LightSource.fx</Source>
+      <Name>LightSource</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\LightSource.xnb</Output>
+      <Time>2012-11-17T14:47:14.1884752-08:00</Time>
+    </Item>
+    <Item>
+      <Source>AdditiveBlend.fx</Source>
+      <Name>AdditiveBlend</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\AdditiveBlend.xnb</Output>
+      <Time>2012-11-17T13:51:52.1274642-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\ButtonClick.wav</Source>
+      <Name>SoundEffects\ButtonClick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\ButtonClick.xnb</Output>
+      <Time>2012-11-11T14:15:42.4275259-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Applause.wav</Source>
+      <Name>SoundEffects\Applause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Applause.xnb</Output>
+      <Time>2012-11-11T21:17:33.8417882-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\ichrmova.wav</Source>
+      <Name>SoundEffects\ichrmova</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\ichrmova.xnb</Output>
+      <Time>2012-11-19T19:31:45.210143-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Already There.wav</Source>
+      <Name>SoundEffects\Already There</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Already There.xnb</Output>
+      <Time>2012-11-19T19:31:45.2341444-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Deconstructing.wav</Source>
+      <Name>SoundEffects\Deconstructing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Deconstructing.xnb</Output>
+      <Time>2012-11-19T19:36:35.7777625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\I'm Gone.wav</Source>
+      <Name>SoundEffects\I'm Gone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\I'm Gone.xnb</Output>
+      <Time>2012-11-19T19:31:45.2521454-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Never Existed.wav</Source>
+      <Name>SoundEffects\Never Existed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Never Existed.xnb</Output>
+      <Time>2012-11-19T19:36:29.0593782-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Without a Trace.wav</Source>
+      <Name>SoundEffects\Without a Trace</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Without a Trace.xnb</Output>
+      <Time>2012-11-19T19:31:45.2701464-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsiderContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsiderContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-30T09:47:30.5328014-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,2 @@
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsiderContent\obj\x86\Debug\TreasureHunterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\ProjectFiles\CoolInsider\CoolInsiderContent\obj\x86\Debug\TreasureHunterContent.contentprojResolveAssemblyReference.cache

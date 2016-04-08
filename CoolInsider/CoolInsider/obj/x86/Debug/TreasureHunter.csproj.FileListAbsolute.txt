@@ -1,0 +1,38 @@
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\Xero_Chi.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\smwfull.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\BrownBlock.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Character Horn Girl.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Water Block.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\pixel.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Enemy Bug.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Gem Blue.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Gem Green.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Gem Orange.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\PlanetCute\Enemy Bug Small.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\ScreenShots\ScreenShot.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\ScreenShots\TitleScreen.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\ScreenShots\Game Over Screen.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Fonts\Default.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Radar.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\ButtonClick.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Applause.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\Xero_Chi.wma
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\Soundtrack\smwfull.wma
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\TreasureHunter.exe.manifest
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\TreasureHunter.application
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\TreasureHunter.exe
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\TreasureHunter.pdb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\obj\x86\Debug\TreasureHunter.exe.manifest
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\obj\x86\Debug\TreasureHunter.application
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\obj\x86\Debug\TreasureHunter.exe
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\obj\x86\Debug\TreasureHunter.pdb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\obj\x86\Debug\TreasureHunter.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\LightSource.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\AdditiveBlend.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\ichrmova.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Already There.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Deconstructing.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\I'm Gone.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Never Existed.xnb
+C:\Users\Developer\Documents\Visual Studio 2010\Projects\CoolInsider\CoolInsider\CoolInsider\bin\x86\Debug\Content\SoundEffects\Without a Trace.xnb

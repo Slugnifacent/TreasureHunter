@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunter", "CoolInsider\CoolInsider\TreasureHunter.csproj", "{82BD3551-2A0E-4795-8BD7-7AB459BFF8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunterContent", "CoolInsider\CoolInsiderContent\TreasureHunterContent.contentproj", "{CA50F5C1-51A1-4571-AB38-141340D44CB1}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BD3551-2A0E-4795-8BD7-7AB459BFF8F9}.Debug|x86.ActiveCfg = Debug|x86
+		{82BD3551-2A0E-4795-8BD7-7AB459BFF8F9}.Debug|x86.Build.0 = Debug|x86
+		{82BD3551-2A0E-4795-8BD7-7AB459BFF8F9}.Release|x86.ActiveCfg = Release|x86
+		{82BD3551-2A0E-4795-8BD7-7AB459BFF8F9}.Release|x86.Build.0 = Release|x86
+		{CA50F5C1-51A1-4571-AB38-141340D44CB1}.Debug|x86.ActiveCfg = Debug|x86
+		{CA50F5C1-51A1-4571-AB38-141340D44CB1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
