@@ -1,0 +1,6 @@
+{
+  "name": "Treasure Hunter",
+  "tagline": "Get to the treasure at the end of the maze!",
+  "body": "Treasure Hunter provides procedurally generated levels, teleportation and lovely but evil bugs. Attempt to reach the treasure at the end of the maze!\r\n\r\n[Gameplay Footage](https://youtu.be/kY3qjPCKzsY)\r\n\r\n### Tools\r\n- C#\r\n- XNA 4.0\r\n- HLSL\r\n\r\n### Controls\r\n- Up/Down/Left/Right: to move\r\n- Spacebar: near the edge of the walkway to teleport across a gap\r\n- Escape: to exit\r\n \r\n### Features\r\n- Procedural Level Generation\r\n- Lighting\r\n- Collision Detection\r\n- Radar\r\n- Enemy Bugs\r\n- Score System\r\n- Time Limit\r\n- Screens\r\n  - Intro\r\n  - Game \r\n  - Score \r\n  - Game Over \r\n- Teleportation\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
